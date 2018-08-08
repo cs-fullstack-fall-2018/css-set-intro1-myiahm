@@ -1,0 +1,6 @@
+.firstParagraph,.thirdParagraph,.fourthParagraph{background-color: pink}
+p {background-color: gray}
+p{color: yellow}
+span { text-decoration: underline}
+.thirdParagraph{text-align: center}
+span{ display: block}
